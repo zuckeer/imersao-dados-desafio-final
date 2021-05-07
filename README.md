@@ -1,22 +1,23 @@
 
 # Desafio Final Imersão Dados - 3ª edição
 
-Convite irrecusável para aqueles interessados no estudo das ciência de dados, a Imersão foi uma grata surpresa e uma jornada gratificante. Desenvolvida entre os dias 3 e 7 de maio de 2021, a jornada foi dividida em aulas diárias, seguindo o cronograma abaixo:
-03/05 - Aula 01: Análise de dados, python, pandas e genética 
-04/05 - Aula 02: Estatísticas, visualização de dados e distribuições
-05/05 - Aula 03: Correlações, causalidade e relações entre genes. 
-06/05 - Aula 04: Merge de dados e análise de resultados.
-07/05 -  Aula 05: Machine Learning, Sci-kit Learning e desafios envolvidos.
+Um convite irrecusável para aqueles interessados no estudo das ciência de dados, a Imersão foi uma grata surpresa e uma jornada gratificante.  
+Desenvolvida entre os dias 3 e 7 de maio de 2021, a jornada foi dividida em aulas diárias, seguindo o cronograma abaixo:  
+03/05 - Aula 01: Análise de dados, python, pandas e genética  
+04/05 - Aula 02: Estatísticas, visualização de dados e distribuições  
+05/05 - Aula 03: Correlações, causalidade e relações entre genes  
+06/05 - Aula 04: Merge de dados e análise de resultados  
+07/05 -  Aula 05: Machine Learning, Sci-kit Learning e desafios envolvidos  
 
-Além das aulas e do material de apoio fornecido pela Alura contamos ainda com o suporte indispensável dos membros do Scuba Teame da ajuda dos partricipantes da imersão através de um server do Discord.
+Além das aulas e do material de apoio fornecido pela [Alura](https://www.alura.com.br) contamos ainda com o suporte indispensável dos membros do Scuba Team e da ajuda dos participantes da imersão através de um server do [Discord](https://discord.com).  
+  
+Distribuídos em salas, o trabalho de descoberta e aprendizado foi catalisado pela energia desse grupo impressionante de pessoas.  
+  
+Não poderíamos deixar de agradecer ao auxílio generoso da Vanessa Leiko, do Thiago G.Santos, do Guilherme Silveira e do Paulo Silveira. Nossa gratidão pela dedicação e pela oportunidade.  
 
-Distribuídos em salas, o trabalho de descoberta e aprendizado foi catalisado pela energia desse grupo impressionante de pessoas.
+Se mais extensões, vamos aos dados do Projeto.  
 
-Não poderíamos deixar de agradecer ao auxílio generoso da Vanessa Leiko, do Thiago G.Santos, do Guilherme Silveira e do Paulo Silveira. Nossa gratidão pela dedicação e pea oportunidade.
-
-Se mais extensões, vamos aos dados do Projeto.
-
-
+## 
 **Olá Cientistas!**
 
 Neste repositório você vai encontrar todas as informações necessárias para o desenvolvimento do projeto final da Imersão Dados.
