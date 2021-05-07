@@ -13,7 +13,7 @@ Além das aulas e do material de apoio fornecido pela [Alura](https://www.alura.
   
 Distribuídos em salas, o trabalho de descoberta e aprendizado foi catalisado pela energia desse grupo impressionante de pessoas.  
   
-Não poderíamos deixar de agradecer ao auxílio generoso da Vanessa Leiko, do Thiago G.Santos, do Guilherme Silveira e do Paulo Silveira. Nossa gratidão pela dedicação e pela oportunidade.  
+Não poderíamos deixar de agradecer ao auxílio generoso da [Vanessa Leiko](https://www.linkedin.com/in/vanessa-leiko-oikawa-cardoso/), do [Thiago G.Santos](https://twitter.com/tgcsantos), do [Guilherme Silveira](https://twitter.com/guilhermecaelum) e do [Paulo Silveira](https://www.linkedin.com/in/paulosilveira/). Nossa gratidão pela dedicação e pela oportunidade.  
 
 Se mais extensões, vamos aos dados do Projeto.  
 
