@@ -1,5 +1,21 @@
 
-# Desafio Final Imersão Dados
+# Desafio Final Imersão Dados - 3ª edição
+
+Convite irrecusável para aqueles interessados no estudo das ciência de dados, a Imersão foi uma grata surpresa e uma jornada gratificante. Desenvolvida entre os dias 3 e 7 de maio de 2021, a jornada foi dividida em aulas diárias, seguindo o cronograma abaixo:
+03/05 - Aula 01: Análise de dados, python, pandas e genética 
+04/05 - Aula 02: Estatísticas, visualização de dados e distribuições
+05/05 - Aula 03: Correlações, causalidade e relações entre genes. 
+06/05 - Aula 04: Merge de dados e análise de resultados.
+07/05 -  Aula 05: Machine Learning, Sci-kit Learning e desafios envolvidos.
+
+Além das aulas e do material de apoio fornecido pela Alura contamos ainda com o suporte indispensável dos membros do Scuba Teame da ajuda dos partricipantes da imersão através de um server do Discord.
+
+Distribuídos em salas, o trabalho de descoberta e aprendizado foi catalisado pela energia desse grupo impressionante de pessoas.
+
+Não poderíamos deixar de agradecer ao auxílio generoso da Vanessa Leiko, do Thiago G.Santos, do Guilherme Silveira e do Paulo Silveira. Nossa gratidão pela dedicação e pea oportunidade.
+
+Se mais extensões, vamos aos dados do Projeto.
+
 
 **Olá Cientistas!**
 
@@ -24,7 +40,7 @@ Delimitar qual será o escopo do seu projeto e colocá-lo em prática pode ser b
 
 Você pode se perguntar: Exploram pouco as possibilidades e tenho um estudo raso, ou explorar muitas possibilidades e não consigo fechar dentro do tempo? 
 
-Na dúvida, pondere e priorize o que está dentro do escopo do projeto, essa é uma tarefa fundamental.  
+Na dúvida, pondere e priorize o que está dentro do escopo do projeto, essa é uma tarefa fundamental.   de 
 
 ### Estrutura do projeto
 
