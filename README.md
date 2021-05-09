@@ -17,8 +17,15 @@ Não poderíamos deixar de agradecer ao auxílio generoso da [Vanessa Leiko](htt
 
 Se mais extensões, vamos aos dados do Projeto.  
 
-## 
-**Olá Cientistas!**
+## Projeto  
+  
+O projeto apresentado utilizou os dados dosponibilizados através da competição [Mechanisms of Action (MoA) Prediction - Can you improve the algorithm that classifies drugs based on their biological activity?](https://www.kaggle.com/c/lish-moa/overview), disponível no Kaggle em https://www.kaggle.com/c/lish-moa/overview.  
+  
+Segue a transcrição original do desafio:  
+  
+_In this competition, you will have access to a unique dataset that combines gene expression and cell viability data. The data is based on a new technology that measures simultaneously (within the same samples) human cells’ responses to drugs in a pool of 100 different cell types (thus solving the problem of identifying ex-ante, which cell types are better suited for a given drug). In addition, you will have access to MoA annotations for more than 5,000 drugs in this dataset._  
+  
+  **Olá Cientistas!**
 
 Neste repositório você vai encontrar todas as informações necessárias para o desenvolvimento do projeto final da Imersão Dados.
 
