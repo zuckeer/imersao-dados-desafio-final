@@ -27,7 +27,7 @@ _In this competition, you will have access to a unique dataset that combines gen
 
 ## Bibliotecas utilizadas  
   
-Foram utilizadas as base fornecidas pela Alura, tento na análise de dados dos experimentos e a base dos resultados das análises 
+Foram utilizadas as bases fornecidas pela Alura de dados dos experimentos e a base dos resultados das análises. 
  
 - [Pandas](https://pandas.pydata.org/docs/user_guide/index.html#user-guide);
 - [Numpy](https://numpy.org/learn/)
@@ -35,7 +35,14 @@ Foram utilizadas as base fornecidas pela Alura, tento na análise de dados dos e
 - [Seaborn](https://seaborn.pydata.org)
 - [Matplotlib](https://matplotlib.org)
   
-  **Olá Cientistas!**
+## Modelos de Machine Learning
+  
+Foram usados ao longos dos testes com os dados os seguintes modelos de ML:
+- [LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html?highlight=logisticregression#sklearn.linear_model.LogisticRegression)
+- [DummyClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.dummy.DummyClassifier.html?highlight=dummyclassifier#sklearn.dummy.DummyClassifier)
+- [DecisionTreeClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html?highlight=decisiontreeclassifier#sklearn.tree.DecisionTreeClassifier)
+- [RandomForestClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html?highlight=randomforestclassifier#sklearn.ensemble.RandomForestClassifier)  
+**Olá Cientistas!**
 
 Neste repositório você vai encontrar todas as informações necessárias para o desenvolvimento do projeto final da Imersão Dados.
 
